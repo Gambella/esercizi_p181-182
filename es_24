@@ -1,0 +1,2 @@
+Get-Command | format-table -prperty Name, Definition |
+              out-file C:\esercizi\elencocomandi
